@@ -1,0 +1,258 @@
+*{
+    margin: 0%;
+    padding: 0%;
+box-sizing: border-box;
+}
+.hea{
+    margin-bottom: 20px;
+}
+
+.cell{
+    
+    width: 100%;
+     padding-bottom: 10px;
+    padding-top: 15px;
+    height: auto;
+}
+.cell span{
+    float: left;
+    max-width: 200px;
+    
+}
+.cell span :first-child{
+    font-size: 20px;
+    color: crimson;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.cell .assa {
+    margin-left: 40px;
+}
+.cell .aa{
+    float: right;
+    margin-right: 0%;
+}
+.cell .aa a{
+    margin-right:20px;
+    color: crimson;
+    
+
+}
+@media screen and(min-width:558) and (max-width: 575px){
+    .cell .aa[data-v-61dd7a3d] {
+    
+    padding-top: 19px;
+}
+}
+@media screen and (max-width: 992px){
+.cell span[data-v-61dd7a3d] :first-child {
+    margin: initial;} 
+}
+@media screen and (max-width: 557px){
+    .cell .aa{
+    float:left;
+  display: flex;
+    padding-top: 19px;
+    margin-bottom: 1%;
+    margin-right: 17%;
+    padding-bottom: 10px;
+     
+ 
+}
+
+.cell .aa a{
+    flex: content;
+}
+
+hr{
+    margin-top: 60px !important;
+    
+}
+
+
+}
+@media only screen and (orientation: landscape) {
+ .cell span :first-child{
+   
+  
+}
+}
+
+@media screen and (max-width: 450px){
+.cell span{
+  font-size: 12px;
+  font-weight: bold;
+   
+}
+.cell span[data-v-61dd7a3d] :first-child {
+    font-size: 15px;}
+
+}
+@media screen and (max-width: 350px){
+.cell span{
+  display: block;
+  margin-top: 2px;
+  
+    
+}
+.cell span:first-of-type{
+  margin-right: 10px;
+  
+    
+}
+
+.cell .assa {
+    margin-left: 0px;
+}
+hr{
+    margin-top: 85px !important;
+    
+}
+}
+
+@media screen and (max-width: 203px){
+.cell span{
+  font-size: 10px;
+   
+}
+.navbar-light .navbar-brand,
+.navbar-light .navbar-brand:hover{
+    font-size: 19px !important;
+}
+.navbar-light .navbar-toggler-icon[data-v-61dd7a3d] {
+    max-width: 17px;
+}
+
+.container .bt ul{
+    margin-top: 5px;
+    font-size: 18px !important;
+    font-weight: bold;
+}
+.container .bt button{
+    display: block;
+    padding: 3%;
+}
+
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-nav .nav-link:hover
+ {
+    font-size: 15px;
+}
+
+
+}
+@media screen and (max-width: 159px){
+.cell span{
+  font-size: 6px;
+    
+}
+.cell span[data-v-61dd7a3d] :first-child {
+    font-size: 15px;}
+
+}
+
+hr{
+    margin-top: 35px;
+    margin-bottom: 20px;
+    color: rgb(194, 189, 189);
+}
+
+
+/***************************************/
+
+div nav{
+    margin: 0%;
+    padding: 0%;
+    font-size: 20px;
+    width: 100%;
+    height: auto;
+}
+.navbar-light .navbar-brand,
+.navbar-light .navbar-brand:hover
+ {
+    color: rgb(255 13 82);
+    font-size: 27px;
+    font-weight: bold;
+    max-width: 114px;
+}
+.navbar-light .navbar-nav .nav-link
+ {
+    color: rgb(231, 14, 148);
+    margin-right: 13px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: rgb(119, 18, 80);
+}
+ *[data-v-61dd7a3d ]  .router-link-exact-active .nav-link{
+color: rgb(255 13 82) !important;
+font-weight: bold !important;
+
+}
+
+.bt button
+{
+    background-color:rgb(224, 142, 142) ;
+     height: 34px;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    
+   
+  
+}
+.bt button:focus{
+     background-color: rgb(255, 0, 43);
+     color: black;
+     box-shadow: none;
+  
+    
+}
+.navbar-toggler:not(:disabled):not(.disabled){
+    max-width: 52px;
+  
+}
+.navbar-light .navbar-toggler-icon {
+    max-width: 22px;
+}
+.container .bt ul{
+    margin-top: 5px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 991px) {
+.container .bt
+    {
+        margin: 0% auto;
+        text-align: center;
+        display: inline-block;
+        width: fit-content;
+        padding-bottom: 20px;
+    }
+    #navbarTogglerDemo02 
+ {
+    background-color: rgb(221, 217, 211);
+   
+}
+.sas .navbar-light .navbar-nav .nav-link[data-v-61dd7a3d], 
+.navbar-light .navbar-nav .nav-link[data-v-61dd7a3d]:hover {
+    background-color: rgb(194, 178, 154);
+}
+    
+
+    div nav[data-v-61dd7a3d] {
+    background-color: #ffffff;
+}
+
+
+    
+}
+
+/*clos() {
+      if (this.classList.contains("navbar-toggler")) {
+        this.classList.remove("navbar-toggler");
+
+        this.classList.add("navbar-toggler collapsed");
+      }
+      
+    },*/

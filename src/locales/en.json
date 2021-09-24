@@ -1,0 +1,69 @@
+{
+    "header": {
+        "head": "Your health is our priorty",
+        "h1": "Minds that cure Hearts that care.",
+        "p": "formulating an integrative health policy  One Nation One Health System by 2030 that would integrate the modern and traditionalsystem of medicines such as allopathy, homeopathy and ayurvedain medical practice ",
+        " /*class serch *********/": "*********",
+        "s1h": "Specialist",
+        "s1p": "What kind of help do you need?",
+        "s2h": "Location",
+        "s2p": "Choose hospital",
+        "s3h": "Visit Time",
+        "s3p": "Choose date",
+        " /*class sec2 *********/": "*********",
+        "sec2h": "  Awards & Experience",
+        "rrh": "Hospital Awards For Volunteer Excellance",
+        "rrp": " The most important thing in the cv of volunteer",
+        "rsh": "Quest For Quality Prize 2020",
+        "rsp": "  It's very good hospital and leadership is advancing health confirmation",
+        "rth": "AHA 2018 Innovation Challenge Winner",
+        "rtp": "   Using digital tools to empact early childhood development and naural health",
+        " /*class sec3 *********/": "*********",
+        "sec3h": "Thank You For Your Feedback",
+        "sec4h": " Do you need help? Find us here",
+        "sec41h": "Need a call?",
+        "sec41p": "Your Name",
+        "sec4i": "Anas Ouda",
+        "sec4i2": "Get a Call",
+        "sec41p2": "We will call you no later than in a minute",
+        "sec4p2": "Phone Number"
+    },
+    "footer": {
+        "d1a": "Healthall",
+        "d2h": "Menu",
+        "d2ua1": "Home",
+        "d2ua2": "About Us",
+        "d2ua3": "Services",
+        "d2ua4": "Team",
+        "d2ua5": "ContactUs",
+        "d3h": "Legal",
+        "d3p1": "Privacy Policy",
+        "d3p2": "Terms Of Service",
+        "d3p3": "Billing",
+        "d4h": "Newsletter",
+        "d4p1": "You can subscribe to the latest news from us",
+        "d4p2": "Your e-mail",
+        "prof": "Profile"
+    },
+    "about": {
+        "head": "About Us",
+        "idea": " I'm <span style='color:red'>Anas Ouda</span> a Resourceful Front End Web Developer bringing in-depth knowledge of latest technology trends to produce clean website design. Experience handling complex HTML,CSS,Bootstrap,JavaScript,Vue.js coding, design, and extensions to meet the organization's front-facing internet needs. Detail-oriented collaboration with others to define project expectations and demand. Hands-on testing and debugging to address inconsistencies and maintain performance thresholds.."
+    },
+    "serv": {
+        "h": "Services we provide",
+        "hp": " Our specialists can help with <span style='color:red'>every imaginable health need</span> - from coughs contraction,anxiety to asthma, insomnia to diabetes.",
+        "h1": "Private GP services",
+        "p1": "Welcom To Our First Angular Project, With Best Wishes",
+        "h2": "Mens health",
+        "h3": "Womens health",
+        "h4": "Children and teenagers",
+        "h5": "Sexual health clinic",
+        "h6": "Tests"
+    },
+    "cont": {
+        "b1": "Your Name",
+        "b2": "E-mail",
+        "b3": "Submitte",
+        "bm":"Message"
+    }
+}

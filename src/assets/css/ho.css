@@ -1,0 +1,347 @@
+.mainho{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+    
+}
+.home{
+    background-color: rgb(253, 231, 248);
+   width: 100%;
+   height: auto;
+   border-bottom-left-radius: 50%;
+   border-bottom-right-radius: 50%;
+   position: relative;
+   margin-bottom: 20px;
+
+}
+.mainho .main{
+    height: auto;
+padding-top: 30px;
+padding-bottom: 150px;
+
+}
+.mainho .ssa .row{
+    margin-left: 0% !important;
+    width: auto;
+}
+.mainho .ssa .m1{
+    height: auto;
+    max-width: 100%;
+     word-break: break-all;
+   margin: auto 0%;
+    text-align: center;
+}
+.mainho .ssa .m1 h1
+{
+    text-align: start;
+     padding-top: 10px;
+     padding-bottom: 5px;
+     color: black
+     ;
+     font-weight: bold;
+     word-break: break-word;
+    
+}
+.mainho .ssa .m1 h6{
+    text-align: start;
+    color: crimson;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.mainho .ssa .m1 p{
+      text-align: start;
+      font-size: 13px;
+      max-width: 80%;
+      line-height:16px;
+     
+}
+
+.mainho .ssa .m2 img{
+  
+ width: 90%;
+ border-top-left-radius: 40%;
+  border-bottom-right-radius: 40%;
+  
+}
+/*//////////////////////*/
+
+.mainho .serch{
+    text-align: center;
+    height: auto;
+    border-radius:20%;
+    height: auto;
+    font-size: 13px;
+    line-height: 15px;
+    font-size: 12px;
+    padding-bottom: 15px;
+    
+    
+}
+.mainho .serch .fas{
+    background-color: rgb(212, 203, 203);
+    height: auto;
+    padding-top: 20px;
+}
+
+.mainho .serch p{
+    
+    text-align: center;
+    margin-left: 29px;
+   
+  
+}
+.mainho .serch .dd h6{
+  
+    font-weight: bolder;
+}
+.mainho .serch h5:first-child{
+    margin-right: 10px;
+    
+    
+}
+
+/*////////////////////*/
+
+.mainho .sec2{
+    padding-top: 80px;
+}
+.mainho .sec2 div:first-of-type,
+.mainho .sec2 div:last-of-type
+{
+    padding-top: 80px;
+}
+.mainho .sec2 .rr{
+    text-align: center;
+    word-wrap: normal;
+
+}
+.mainho .rr h4{
+    
+    color: black;
+    font-size: large;
+    padding: 12px 20px 0 20px;
+    font-weight: bold;
+}
+.mainho .rr p{
+    font-size: 12px;
+    padding: 3px 50px;
+}
+@media only screen and (max-width:570px) {
+    .mainho  .row{
+        text-align: center;
+     display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    }
+  
+  .mainho   .row div{
+        flex-grow: 50;
+    }
+   .mainho  .sec2 div:first-of-type,
+.mainho  .sec2 div:last-of-type
+{
+    padding-top: 28px;
+}
+}
+.mainho .sec3{
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+.mainho .sec3 h1{
+    padding-bottom: 100px ;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+
+ 
+}
+
+/*////////////////////////////////////////////////
+*/
+.mainho .sec3{
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+.mainho .sec3 h1{
+    padding-bottom: 100px ;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+.mainho .sec3  .eem .eein{
+ text-align: start;
+}
+.mainho .sec3  .eem .eein img{
+    border-radius: 50% 60%;
+    display: inline-block;
+    width: fit-content;
+    max-width: 50%;
+    height: 50%;
+}
+.mainho .sec3  .eem .eein h5{
+     color: rgb(27, 17, 17);
+    font-weight: bold;
+
+}
+.mainho .sec3  .eem .eein ul{
+  padding-left: unset;
+}
+.mainho .sec3  .eem .eein ul li {
+    list-style: none;
+    display: inline;
+    margin-left: 2px;
+    color: rgb(255, 0, 0);
+      
+}
+@media only screen and (max-width: 991px) {
+ .mainho  .nmmn {
+       width: 100%;
+    text-align: center;
+    margin: 0% 10px;
+    display: flexbox;
+  
+
+   
+  }}
+  @media only screen and (max-width: 400px){
+    .mainho  .row{
+         flex-direction: column;
+    align-content: center;
+     }
+     
+
+  }
+
+  .mainho  .sec4{
+      height: auto;
+      width:100%;
+      margin-bottom: 60px;
+  }
+ .mainho   .sec4  .sec41{
+       padding-top: 40px;
+       max-width: 80%;
+       margin: auto;
+
+   }
+  .mainho  .sec41 .fg{
+       text-align: start;
+   }
+.mainho .sec41 .fg h5 {
+    color: rgb(255 13 82);
+    font-weight: bold;
+}
+.mainho .sec41 .fg p:not(:last-child){
+    padding-top: 15px;
+    color: black;
+    font-weight: bold;
+}
+.mainho .sec41 .fg p:nth-child(2n){
+    padding-top: 32px;
+}
+.mainho .sec41 .fg input{
+    border: none;
+    border-bottom: 2px solid crimson;
+}
+.mainho .sec41 .fg input:focus{
+    outline: none;
+
+}
+.mainho .sec41 .fg button{
+    background-color: crimson;
+    text-align: center;
+    width: 196px;
+    color: #fefefe;
+    margin-top: 83px;
+}
+.mainho .sec41 .fg .cv{
+    font-weight: normal;
+    color: darkgray;
+    font-size: 11px;
+    padding: revert;
+    margin-top: 9px;
+}
+.mainho .sec41 .col-sm-6{
+    display: inline-block;
+}
+.mainho .sec41  .col-sm-6 img{
+   
+    max-width: 100%;
+    height: 408px;
+}
+
+@media only screen and(max-width:575px){
+    
+   .mainho .sec41 .fg[data-v-fae5bece]{
+      padding-left: 50px;
+      max-width: 70%;
+   }
+}
+.mainho .jh {
+  
+    height: 4px;
+   color: rgb(255, 0, 0);
+   font-weight: bolder;
+max-width: 87%;
+    margin: 70px auto;
+
+}
+/*////////////////////////*/
+ .mainho .navbar-brand,
+ .mainho .navbar-brand:hover
+ {
+    color: rgb(255 13 82);
+    font-size: 22px;
+    font-weight: bolder;
+    max-width: 114px;
+}
+.mainho .cd {
+    text-align: start;
+}
+.mainho .cd p{
+    padding-top: 10px;
+}
+.mainho .aa{
+    
+    margin-right: 0%;
+}
+ .mainho .aa a{
+    margin-right:20px;
+    color: crimson;
+    
+
+}
+.mainho .cd .fs h6{
+    padding-left: 1rem;
+    color: black;
+    font-weight: bold;
+}
+.mainho .fs .nav-link {
+    display: block;
+  text-align: start;
+    color: #7d7d70;}
+.mainho .fs ul{
+    padding: unset;
+}
+    .mainho .cd h6{
+        color: black;
+    font-weight: bold;
+    }
+   .mainho .cd  .cer {
+            max-width: 92%;
+    }
+   .mainho  .cd input{
+    border: none;
+    border-bottom: 2px solid crimson;
+}
+.mainho .cd input:focus{
+    outline: none;
+
+}
+.mainho .sec5{
+    padding-bottom: 30px;
+}
+.mainho .cd div{
+    padding-bottom: 15px;
+}
